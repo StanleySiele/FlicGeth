@@ -1,0 +1,3 @@
+# Flic
+yarn
+yarn start
